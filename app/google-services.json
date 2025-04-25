@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "929823125765",
+    "project_id": "realtimedatabase-f3cc0",
+    "storage_bucket": "realtimedatabase-f3cc0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929823125765:android:7f3f05e15ed1ad3725076c",
+        "android_client_info": {
+          "package_name": "com.example.firebasetutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnQyZ8ZQENMFHjTqPCrEguR0x6paVnmww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
